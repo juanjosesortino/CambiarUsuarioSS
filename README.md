@@ -1,2 +1,2 @@
 # CambiarUsuarioSS
- Cambiar Usuario SourceSafe
+ CambiarUsuarioSS
